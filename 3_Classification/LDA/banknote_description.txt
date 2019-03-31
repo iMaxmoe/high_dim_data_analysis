@@ -1,0 +1,37 @@
+Swiss banknotes data
+
+Description
+
+The data set contains six measurements made on 100 genuine and 100 counterfeit old-Swiss 1000-franc bank notes.
+
+Usage
+
+data(banknote)
+Format
+
+A data frame with the following variables:
+
+Length
+Length of bill (mm)
+
+Left
+Width of left edge (mm)
+
+Right
+Width of right edge (mm)
+
+Bottom
+Bottom margin width (mm)
+
+Top
+Top margin width (mm)
+
+Diagonal
+Length of diagonal (mm)
+
+Status
+the status of the banknote: genuine or counterfeit
+
+Source
+
+Flury, B. and Riedwyl, H. (1988). Multivariate Statistics: A practical approach. London: Chapman & Hall, Tables 1.1 and 1.2, pp. 5-8
