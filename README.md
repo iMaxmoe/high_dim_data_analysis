@@ -1,2 +1,4 @@
 # high_dim_data_analysis
-High Dimensional Statistics Analysis using Python and R
+This is a collection of my undergraduate RA work on high dimensional statistics analysis using Python and R
+
+
